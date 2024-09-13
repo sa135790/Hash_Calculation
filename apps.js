@@ -25,7 +25,7 @@ hashes.sort();
 const concatenatedHashes = hashes.join('');
 
 // Your email
-const email = 'st.amie.new@gmail.com'.toLowerCase();
+const email = 'Set your email here'.toLowerCase();
 const resultString = concatenatedHashes + email;
 
 // Calculate final SHA3-256 hash
